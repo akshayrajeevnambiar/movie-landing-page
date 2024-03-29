@@ -1,70 +1,51 @@
-# Getting Started with Create React App
+# Movie Landing Page
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Welcome to the Movie Landing Page project! This React application is designed to showcase your favorite movies in a visually appealing and user-friendly way. Whether you're a movie enthusiast or a casual viewer, this landing page will provide you with an immersive experience.
 
-## Available Scripts
+## Features:
 
-In the project directory, you can run:
+- **Discover New Movies:** Explore a curated selection of the latest and trending movies.
+- **Search Functionality:** Easily find movies by title, genre, or any specific keywords.
+- **Detailed Movie Information:** Get comprehensive details about each movie, including synopsis, release date, cast, and more.
+- **Interactive UI:** Enjoy a sleek and intuitive user interface designed for seamless navigation.
+- **Responsive Design:** Experience optimal viewing across various devices, including desktops, tablets, and smartphones.
 
-### `npm start`
+## Technologies Used:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- **React:** Built with React library for dynamic and interactive user interfaces.
+- **React Router:** Implemented routing for smooth navigation between different pages.
+- **API Integration:** Utilized movie database APIs to fetch and display movie data.
+- **CSS:** Styled components using CSS for a visually appealing layout and design.
+- **Axios:** Employed Axios for making HTTP requests to fetch movie data from APIs.
+- **Semantic HTML:** Ensured accessibility and SEO-friendliness with semantic HTML markup.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## How to Run:
 
-### `npm test`
+To run the Movie Landing Page on your local machine:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+1. Clone the repository to your local machine.
+2. Navigate to the project directory in your terminal.
+3. Install dependencies using `npm install`.
+4. Run the application using `npm start`.
+5. Open your browser and go to `http://localhost:3000` to view the landing page.
 
-### `npm run build`
+## Screenshots:
+<br>
+<br>
+<img width="935" alt="Screenshot 2024-03-28 234106" src="https://github.com/akshayrajeevnambiar/movie-landing-page/assets/144245055/09e1b29e-c889-4ea0-9dad-fe841932128f">
+<br>
+<br>
+<img width="938" alt="Screenshot 2024-03-28 234121" src="https://github.com/akshayrajeevnambiar/movie-landing-page/assets/144245055/68328f9b-daaf-4b11-96f6-b61fa6bfe820">
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Future Improvements:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- **User Authentication:** Implement user authentication to allow users to save their favorite movies or create watchlists.
+- **Pagination:** Add pagination functionality to improve performance and navigation for large movie databases.
+- **Customized Recommendations:** Provide personalized movie recommendations based on user preferences and viewing history.
+- **Enhanced UI/UX:** Continuously refine and enhance the user interface and user experience based on feedback and usability testing.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Credits:
 
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- **API:** Movie data fetched from [API Name].
+- JSMastery Youtube Channel
+- Freecodecamp channel
