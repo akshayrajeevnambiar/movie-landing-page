@@ -46,6 +46,6 @@ To run the Movie Landing Page on your local machine:
 
 ## Credits:
 
-- **API:** Movie data fetched from [API Name].
+- **API:** Movie data fetched from RapidAPI.
 - JSMastery Youtube Channel
 - Freecodecamp channel
